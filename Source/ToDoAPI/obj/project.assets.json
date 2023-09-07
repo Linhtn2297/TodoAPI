@@ -2932,11 +2932,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
+      "projectUniqueName": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
       "projectName": "ToDoAPI",
-      "projectPath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
+      "projectPath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
       "packagesPath": "C:\\Users\\test\\.nuget\\packages\\",
-      "outputPath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\Source\\ToDoAPI\\obj\\",
+      "outputPath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\TodoAPI\\Source\\ToDoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

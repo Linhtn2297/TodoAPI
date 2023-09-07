@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e7IB73CfW79x6ygEQgxDne8bAtzl0mkmG31tnO29W7dmKJLkiwqSSOWBv8N6RoY+GGA7Ot3nlEgaGXeK5YKkEA==",
+  "dgSpecHash": "clpZuVuvJdQcsXizLz0Y7NJ6bELtuNZ1/uXbM9DdSmazE2E+lUDSVnZ2mDFCbh9JYKorSctddsSCdY3FdIXoag==",
   "success": true,
-  "projectFilePath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
+  "projectFilePath": "D:\\[NB]_AOTS\\Source Demo\\TodoAPI\\TodoAPI\\Source\\ToDoAPI\\ToDoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\test\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\test\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
