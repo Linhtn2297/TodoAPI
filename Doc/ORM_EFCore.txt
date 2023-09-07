@@ -1,0 +1,17 @@
+Cài đặt các library cần thiết:
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.Tools
+MySql.EntityFrameworkCore
+(Mở nuget để cài đặt hoặc chạy lệnh, nếu chạy bằng lệnh thì dotnet add package thì phải di chuyển vào thư mục chưa project (file csproj))
+
+Code first
+1. Tạo file DataContext connect tới MySqlServer
+2. Chạy 2 lệnh:
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+(nếu không chạy được lệnh dotnet ef thì mở cmd và cài đăt tool: dotnet tool install --global dotnet-ef --version 6.*)
+
+Database first
+1. Tạo database todo_db
+2. Chạy lệnh: Scaffold-DbContext "server=localhost;port=3306;user=root;password=your_pass;database=todo_db" MySql.EntityFrameworkCore -OutputDir DB/Test -f
+(lưu ý truyền vào -OutputDir đúng và project build không bị lỗi)
